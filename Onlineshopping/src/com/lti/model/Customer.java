@@ -3,6 +3,7 @@ package com.lti.model;
 public class Customer {
   int custId;
   String custName;
+  String custCity;
 public int getCustId() {
 	return custId;
 }
