@@ -4,6 +4,7 @@ public class product {
   int productId;
   String produceName;
   String productDesc;
+	String productDescription;
  String productDescription;
 	int quantity;
 double price;
